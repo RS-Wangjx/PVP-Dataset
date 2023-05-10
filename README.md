@@ -7,4 +7,4 @@ The PVP Dataset contains 4640 pairs image of PV panel samples from 13 provinces 
 PVP Dataset will be available soon！
 
 # Citation
-Please cite our paper if you use this code in your work:
+Please cite our paper if you use this dataset in your work:
