@@ -9,7 +9,8 @@ It is a public dataset for extracting high-quality photovoltaic panels in large-
 Please cite our paper if you use this dataset in your work:
 
 ```
-@article{WANG2023103309,
+@article{2023103309,
+  author = {Wang, Jianxun and Chen, Xin and Jiang, Weicheng and Hua, Li and Liu, Junyi and Sui, Haigang},
   title = {PVNet: A novel semantic segmentation model for extracting high-quality photovoltaic panels in large-scale systems from high-resolution remote sensing imagery},
   journal = {International Journal of Applied Earth Observation and Geoinformation},
   volume = {119},
