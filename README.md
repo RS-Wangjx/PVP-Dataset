@@ -9,6 +9,16 @@ PVP Dataset will be available soon！
 
 # Citation
 Please cite our paper if you use this dataset in your work:
+@article{WANG2023103309,
+title = {PVNet: A novel semantic segmentation model for extracting high-quality photovoltaic panels in large-scale systems from high-resolution remote sensing imagery},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {119},
+pages = {103309},
+year = {2023},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2023.103309},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843223001310},
+}
 
 # Contact
 E-mail: haigang_sui@263.net; wangjianxun@whu.edu.cn
