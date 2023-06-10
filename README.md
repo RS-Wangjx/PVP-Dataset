@@ -22,4 +22,4 @@ Please cite our paper if you use this dataset in your work:
 ```
 
 # Contact
-E-mail: haigang_sui@263.net; wangjianxun@whu.edu.cn
+E-mail: wangjianxun@whu.edu.cn; haigang_sui@263.net
